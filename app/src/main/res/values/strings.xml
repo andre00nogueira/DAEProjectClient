@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">DAEProjectClient</string>
+    <string name="app_name">DAE Project Client</string>
+    <string name="splash_info_text1">Take into consideration that this is just a mockup.</string>
+    <string name="splash_info_text2">For the API Service to work, this app needs to be ran in an emulator inside the localhost.</string>
 </resources>

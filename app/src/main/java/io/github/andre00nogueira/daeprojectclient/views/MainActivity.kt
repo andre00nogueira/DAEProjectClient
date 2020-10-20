@@ -1,9 +1,9 @@
-package io.github.andre00nogueira.daeprojectclient
+package io.github.andre00nogueira.daeprojectclient.views
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import io.github.andre00nogueira.daeprojectclient.R
 import io.github.andre00nogueira.daeprojectclient.data.ProjectAPIService
-import io.github.andre00nogueira.daeprojectclient.data.material.MaterialResponseItem
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.launch
